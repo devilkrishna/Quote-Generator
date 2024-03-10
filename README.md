@@ -33,6 +33,9 @@ By using these code you can create an amazing quote. By using your good name
                 `"${name}, life is 10% what happens to us and 90% how we react to it."`,
                 `"${name}, success is not the key to happiness. Happiness is the key to success."`,
                 `"${name}, the only limit to our realization of tomorrow will be our doubts of today."`,
+                `"${name}, 𝙉𝙤𝙩𝙝𝙞𝙣𝙜 𝙩𝙚𝙖𝙘𝙝𝙚𝙨 𝙪𝙨 𝙗𝙚𝙩𝙩𝙚𝙧 𝙩𝙝𝙖𝙣 𝙤𝙪𝙧 𝙤𝙬𝙣 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨."`
+                `"${name}, The danger with friends is that once they stop talking to you, they will start talking about you.."`
+                `"${name}, THE HARDEST BATTLE IS BETWEEN WHAT U KNOW IN YOUR HEAD & WHAT U FEEL IN YOUR HEART."`
                 `"${name}, believe you can and you're halfway there."`
             ];
             const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
